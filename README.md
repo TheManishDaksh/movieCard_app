@@ -1,2 +1,2 @@
 # movie_app
-A movie web app for learning
+A movieCard web app for learning
